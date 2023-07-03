@@ -26,6 +26,10 @@ a {
 
 }
 
+.brayooo {
+  color: rgb(59, 201, 186);
+}
+
 a:hover {
   color: var(--color-links-hover);
   text-decoration: none;
