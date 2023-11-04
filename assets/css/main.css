@@ -136,14 +136,15 @@ section {
   height: 90px;
   transition: all 0.5s;
   z-index: 997;
-  background: #03b8bb;
+  background: #fff;
+  box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.2); /* Add the shadow */
 }
 
 .header.sticked {
   height: 70px;
 }
 
-.header .logo img {
+.header .logo image {
   max-height: 40px;
   margin-right: 6px;
 }
